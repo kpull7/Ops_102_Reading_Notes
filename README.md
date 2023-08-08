@@ -1,2 +1,3 @@
-# Ops_102_Reading_Notes
-Collection of my Ops 102 reading notes
+# Ops 102 Reading Notes
+
+Refer to my notes in the wiki tab.
